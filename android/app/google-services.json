@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832489455999",
+    "firebase_url": "https://tala-d9edf.firebaseio.com",
+    "project_id": "tala-d9edf",
+    "storage_bucket": "tala-d9edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832489455999:android:a4950998797ac4b3b05a4a",
+        "android_client_info": {
+          "package_name": "com.tala.azimut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832489455999-t06b854915bd823dortu1j9unfeo9l51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tala.azimut",
+            "certificate_hash": "f6ef349c471d465037c9a67a9a068c62f4d2a44e"
+          }
+        },
+        {
+          "client_id": "832489455999-jfq2ucd1smhb6csank0dgte7npqn2924.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSe2djW46ERPLJfciuwUbdqouVV5lLJ00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832489455999-jfq2ucd1smhb6csank0dgte7npqn2924.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
